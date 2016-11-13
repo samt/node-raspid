@@ -1,0 +1,31 @@
+{
+  "name": "raspid",
+  "version": "0.1.0",
+  "description": "Interface with the Raspid HAT",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makerhqsac/node-raspid.git"
+  },
+  "keywords": [
+    "rfid",
+    "nfc",
+    "raspberry",
+    "pi",
+    "wiegand",
+    "13.56",
+    "125"
+  ],
+  "author": "Sam Thompson <git@samt.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makerhqsac/node-raspid/issues"
+  },
+  "homepage": "https://github.com/makerhqsac/node-raspid#readme",
+  "dependencies": {
+    "pi-spi": "^1.0.1",
+    "rpi-gpio": "^0.7.0"
+  }
+}
