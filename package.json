@@ -1,13 +1,13 @@
 {
   "name": "raspid",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Interface with the Raspid HAT",
   "main": "index.js",
   "scripts": {
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/makerhqsac/node-raspid.git"
+    "url": "git+https://github.com/samt/node-raspid.git"
   },
   "keywords": [
     "rfid",
